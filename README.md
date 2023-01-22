@@ -11,6 +11,8 @@ Online first is the technology where you can replicate server to the client's br
 
 
 ## Network
- - [Syncthing](https://github.com/syncthing/syncthing)
+- [Peer to peer](https://github.com/topics/peer-to-peer)
+  - [Syncthing](https://github.com/syncthing/syncthing)
     - This is continuous file synchronization program in short Google doc but more safer as mentioned in their README.
+- [Server Client ] (/)
 
